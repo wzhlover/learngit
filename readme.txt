@@ -1,8 +1,6 @@
-git aaa
-git bbb
-git ccc
-git ddd
-git eee
-git fff
-git ggg
-git hhh
+learn to use git
+import pandas as pd
+import pymysql
+
+aa = 'bbb'
+print(aa)
